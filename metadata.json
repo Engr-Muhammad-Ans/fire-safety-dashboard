@@ -1,0 +1,6 @@
+{
+  "name": "Fire Safety Dashboard",
+  "description": "A real-time fire safety monitoring and management system for industrial settings. This initial version focuses on core monitoring displays for alarms, pumps, and emergency contacts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
